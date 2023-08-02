@@ -1,6 +1,6 @@
-const mongoose=require("mongoose");
+
 const UserModel=require("../models/userModel")
-const express=require("express");
+
 
 const signup=async(req,res)=>{
   
